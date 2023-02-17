@@ -1,0 +1,2 @@
+[filter "clean_comments"]
+	clean = "sed \"/#/d\""
